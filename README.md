@@ -32,11 +32,14 @@
 
 ## Input:
 
+
 ### Output:
+<img width="800" height="578" alt="image" src="https://github.com/user-attachments/assets/beb96878-98e0-4fb4-9803-5dc4a0d4f1dc" />
 
 
-### Name:
-### Register Number:
+
+### Name: K.AKSHARA
+### Register Number: 212225040016
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
